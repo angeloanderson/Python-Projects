@@ -6,6 +6,6 @@
 This is one of the first things I created while learning Python!
 <br />
 
-We just updated our [Replit Guessing Game](https://replit.com/@AngeloAnderson2/Guessing-Game-Angelo)!
+[Replit Guessing Game](https://replit.com/@AngeloAnderson2/Guessing-Game-Angelo)!
 
 
